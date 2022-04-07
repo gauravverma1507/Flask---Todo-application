@@ -15,20 +15,26 @@ In this application you can:-
 
 
 This is a To-Do appliction to create this application i have used:
+
 PROGRAMMING LANGUAGE:
+--
 -Python
 
 DATABSE:
+--
 -SQL Database
 
 
 FRAMEWORK:
+--
 -Flask Framework
 
 DEPLOY:
+--
 -Heroku deployment
 
 UI:
+--
 -Html
 -Css
 -Bootstrap
