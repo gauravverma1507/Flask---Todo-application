@@ -1,6 +1,5 @@
 # Flask---Todo-application
 - http://gauravflask.herokuapp.com/
-- -
 A very warm welcome to you here. Today let's have a look on this.
 -
 ![image](https://user-images.githubusercontent.com/93917207/162195392-a30b162d-4d6d-46d4-ac2f-884f76afa572.png)
