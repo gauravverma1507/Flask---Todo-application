@@ -37,3 +37,7 @@ you can also learn these skills as i am uploading a pdf file which consists all 
 -css
 -Sql
 -Flask
+
+
+
+put index.html in template folder after downloading in same repository.
